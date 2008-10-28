@@ -1,4 +1,4 @@
 category: X11 Devel
 requires: cygwin
-sdesc: "Xorg Makefile dependency tool"
-ldesc: "Xorg Makefile dependency tool"
+sdesc: "X.Org Makefile dependency tool"
+ldesc: "X.Org Makefile dependency tool"
