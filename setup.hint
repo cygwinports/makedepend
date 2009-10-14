@@ -1,4 +1,4 @@
 category: X11 Devel
-requires: cygwin
+requires: libgcc1
 sdesc: "X.Org Makefile dependency tool"
 ldesc: "X.Org Makefile dependency tool"
