@@ -1,4 +1,4 @@
 category: X11 Devel
-requires: libgcc1
+requires:
 sdesc: "X.Org Makefile dependency tool"
 ldesc: "X.Org Makefile dependency tool"
