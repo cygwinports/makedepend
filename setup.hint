@@ -1,4 +1,0 @@
-category: X11 Devel
-requires:
-sdesc: "X.Org Makefile dependency tool"
-ldesc: "X.Org Makefile dependency tool"
