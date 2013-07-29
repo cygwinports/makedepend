@@ -1,8 +1,14 @@
 inherit xorg
 
 NAME="makedepend"
-VERSION=1.0.4
+VERSION=1.0.5
 RELEASE=1
-CATEGORY="X11 Devel"
-SUMMARY="X.Org Makefile dependency tool"
-DESCRIPTION="X.Org Makefile dependency tool"
+CATEGORY="Devel"
+SUMMARY="X Makefile dependency tool"
+DESCRIPTION="The makedepend program reads each sourcefile in sequence and
+parses it like a C-preprocessor so that it can correctly tell which #include
+directives would be used in a compilation.  Every file that a sourcefile
+includes, directly or indirectly, is what makedepend calls a dependency.
+These dependencies are then written to a makefile in such a way that make(1)
+will know which object files must be recompiled when a dependency has
+changed."
